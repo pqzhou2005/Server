@@ -1,0 +1,23 @@
+{
+    "debugMode" : 1,
+    "noCache": false,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"../",
+
+    "modules" : ["cocos2d","ccui"],
+
+    "jsList" : [
+        "src/resource.js?v=132",
+        "src/login.js?v=132",
+        "src/game.js?v=123562",
+        "src/route.js?v=123",
+        "src/control.js?v=123",
+        "src/myApp.js?v=123562",
+        "src/ball.js?v=123562",
+        "src/player.js?v=123562",
+        "src/enter.js?v=1234"
+    ]
+}
